@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div>
+  <img heigth= "180" src=(https://github-readme-stats.vercel.app/api?username=Rodrigo Fariassilva)(https://github.com/Rodrigo Fariassilva/github-readme-stats)
+</div>
 <!--
 **RodrigoFariassilva/RodrigoFariassilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
